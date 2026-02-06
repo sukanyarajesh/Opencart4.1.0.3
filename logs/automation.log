@@ -1,0 +1,25 @@
+17:08:33.850 [main] ERROR testcases.TC001_AcontRegistratin.testcase(TC001_AcontRegistratin.java:45)oggger - Test failed
+17:08:33.866 [main] DEBUG testcases.TC001_AcontRegistratin.testcase(TC001_AcontRegistratin.java:46)oggger - debug log...
+17:08:33.866 [main] INFO  testcases.TC001_AcontRegistratin.testcase(TC001_AcontRegistratin.java:54)oggger - ****TC001_AccontRegistratin finished....***
+17:08:36.731 [main] INFO  testcases.TC002_Logintest.loginvalidation(TC002_Logintest.java:14)oggger - ***TestcaseTC001_Logintest started*****
+17:08:38.982 [main] INFO  testcases.TC002_Logintest.loginvalidation(TC002_Logintest.java:36)oggger - ***TestcaseTC001_Logintest finied*****
+22:45:09.546 [main] DEBUG org.testng.log4testng.Logger.debug(Logger.java:82)oggger - suiteXmlPath: "C:\Users\User\eclipse-workspace\Opencart4.1.0.3\mastertestng.xml"
+22:45:15.525 [main] INFO  testcases.TC001_AcontRegistratin.testcase(TC001_AcontRegistratin.java:15)oggger - **** TC001_AccontRegistratin started****
+22:45:16.572 [main] INFO  testcases.TC001_AcontRegistratin.testcase(TC001_AcontRegistratin.java:19)oggger - cliked on my accunt ....
+22:45:16.579 [main] INFO  testcases.TC001_AcontRegistratin.testcase(TC001_AcontRegistratin.java:23)oggger - provaiding customer details...
+22:45:17.783 [main] INFO  testcases.TC001_AcontRegistratin.testcase(TC001_AcontRegistratin.java:34)oggger - entered the valid password
+22:45:20.044 [main] ERROR testcases.TC001_AcontRegistratin.testcase(TC001_AcontRegistratin.java:45)oggger - Test failed
+22:45:20.044 [main] DEBUG testcases.TC001_AcontRegistratin.testcase(TC001_AcontRegistratin.java:46)oggger - debug log...
+22:45:20.044 [main] INFO  testcases.TC001_AcontRegistratin.testcase(TC001_AcontRegistratin.java:54)oggger - ****TC001_AccontRegistratin finished....***
+22:45:23.397 [main] INFO  testcases.TC002_Logintest.loginvalidation(TC002_Logintest.java:14)oggger - ***TestcaseTC001_Logintest started*****
+22:45:26.370 [main] INFO  testcases.TC002_Logintest.loginvalidation(TC002_Logintest.java:36)oggger - ***TestcaseTC001_Logintest finied*****
+23:29:50.833 [main] DEBUG org.testng.log4testng.Logger.debug(Logger.java:82)oggger - suiteXmlPath: "C:\Users\User\eclipse-workspace\Opencart4.1.0.3\mastertestng.xml"
+23:29:55.008 [main] INFO  testcases.TC001_AcontRegistratin.testcase(TC001_AcontRegistratin.java:15)oggger - **** TC001_AccontRegistratin started****
+23:29:55.844 [main] INFO  testcases.TC001_AcontRegistratin.testcase(TC001_AcontRegistratin.java:19)oggger - cliked on my accunt ....
+23:29:55.854 [main] INFO  testcases.TC001_AcontRegistratin.testcase(TC001_AcontRegistratin.java:23)oggger - provaiding customer details...
+23:29:56.972 [main] INFO  testcases.TC001_AcontRegistratin.testcase(TC001_AcontRegistratin.java:34)oggger - entered the valid password
+23:29:58.225 [main] ERROR testcases.TC001_AcontRegistratin.testcase(TC001_AcontRegistratin.java:45)oggger - Test failed
+23:29:58.225 [main] DEBUG testcases.TC001_AcontRegistratin.testcase(TC001_AcontRegistratin.java:46)oggger - debug log...
+23:29:58.225 [main] INFO  testcases.TC001_AcontRegistratin.testcase(TC001_AcontRegistratin.java:54)oggger - ****TC001_AccontRegistratin finished....***
+23:30:02.110 [main] INFO  testcases.TC002_Logintest.loginvalidation(TC002_Logintest.java:14)oggger - ***TestcaseTC001_Logintest started*****
+23:30:17.465 [main] INFO  testcases.TC002_Logintest.loginvalidation(TC002_Logintest.java:36)oggger - ***TestcaseTC001_Logintest finied*****
